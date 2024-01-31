@@ -1,0 +1,424 @@
+.navbar {
+    /* background-image: url(./img/loan02.svg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: white;
+}
+
+.navbar-nav {
+    font-weight: 800;
+    font-size: 15px;
+    padding-left: 100px;
+    /* margin-top: -100px; */
+}
+
+.navbar-brand {
+    margin-top: px;
+}
+
+.nav-link {
+    font-weight: 700;
+    margin-left: 30px;
+    color: black;
+    font-size: 15px;
+}
+
+.navbar button {
+    border-radius: 80px;
+    background: rgb(50, 33, 83);
+    font-size: 1.1rem;
+    margin-left: 75px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbar button:hover {
+    background: rgb(132, 189, 90);
+}
+
+.fa-home {
+    color: rgb(132, 189, 90);
+    font-size: 25px;
+}
+
+.fa-calculator {
+    color: rgb(132, 189, 90);
+    font-size: 15px;
+}
+
+.fa-dollar {
+    color: rgb(132, 189, 90);
+    font-size: 20px;
+}
+
+.fa-apple {
+    color: rgb(132, 189, 90);
+    font-size: 20px;
+}
+
+.fa-comment {
+    color: rgb(132, 189, 90);
+    font-size: 20px;
+}
+
+#showcase {
+    /* background: rgb(255, 250, 245); */
+    color: rgb(50, 33, 83);
+    margin-left: 700px;
+    margin-top: 150px;
+}
+
+#showcase h1 {
+    font-size: 50px;
+    width: 500px;
+    margin-bottom: 40px;
+    font-weight: 700;
+    /* height: 500px; */
+}
+
+#showcase h4 {
+    margin-bottom: 40px;
+    color: rgb(132, 189, 90);
+    font-weight: 900;
+    /* height: 500px; */
+}
+
+#showcase1 {
+    background-image: url(./img/loan03.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+    margin-top: -400px;
+    height: 40vh;
+    margin-left: 60px;
+}
+
+#showcase button {
+    border-radius: 80px;
+    background: rgb(50, 33, 83);
+    font-size: 1.1rem;
+    margin-left: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#showcase button:hover {
+    background: rgb(132, 189, 90);
+}
+
+.cal {
+    background: rgb(246, 246, 246);
+    margin-top: 200px;
+    padding-top: 90px;
+    margin-bottom: 90px;
+    height: 100vh;
+}
+
+.cal h1 {
+    color: rgb(50, 33, 83);
+    border-bottom: 3px solid rgb(132, 189, 90);
+    margin-bottom: 30px;
+    margin-right: 820px;
+}
+
+.cal p {
+    color: rgb(50, 33, 83);
+    margin-bottom: 30px;
+    width: 700px;
+    font-weight: 400;
+}
+
+
+/* .cal {
+    background: rgb(246, 246, 246);
+    margin-top: 200px;
+    padding-top: 90px;
+} */
+
+.ser h1 {
+    color: rgb(50, 33, 83);
+    border-bottom: 3px solid rgb(132, 189, 90);
+    margin-bottom: 30px;
+    margin-right: 870px;
+}
+
+.ser p {
+    color: rgb(50, 33, 83);
+    margin-bottom: 30px;
+    width: 700px;
+    font-weight: 400;
+}
+
+.small-content-box {
+    width: 31%;
+    background: rgb(242, 248, 238);
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.small-content-box p {
+    margin-top: 30px;
+    width: 350px;
+    text-decoration: none;
+}
+
+.small-content-box img {
+    background: white;
+    padding: 20px;
+    color: white;
+    border-radius: 250px;
+}
+
+.small-content-box img:hover {
+    background: rgb(50, 33, 83);
+}
+
+.small-content-box h2 {
+    color: black;
+}
+
+.Blog {
+    background: rgb(246, 246, 246);
+    margin-top: 200px;
+    padding-top: 90px;
+    margin-bottom: 90px;
+    /* height: 100vh; */
+}
+
+.Blog h1 {
+    color: rgb(50, 33, 83);
+    border-bottom: 3px solid rgb(132, 189, 90);
+    margin-bottom: 30px;
+    margin-right: 900px;
+}
+
+.Blog p {
+    color: rgb(50, 33, 83);
+    margin-bottom: 30px;
+    width: 700px;
+    font-weight: 400;
+}
+
+.bigg-content-box {
+    width: 30%;
+    padding-top: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    background: white;
+}
+
+.bigg-content-box p {
+    margin-top: 20px;
+    width: 350px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.bigg-content-box h5 {
+    margin-top: 10px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.bigg-content-box img {
+    padding: 20px;
+    color: white;
+    /* width: 110%; */
+}
+
+.spn {
+    /* color: white; */
+    background: rgb(132, 189, 90);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.sap {
+    background: rgb(50, 33, 83);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.Rev {
+    margin-top: 60px;
+    margin-bottom: 90px;
+}
+
+.Rev h1 {
+    color: rgb(50, 33, 83);
+    border-bottom: 3px solid rgb(132, 189, 90);
+    margin-bottom: 30px;
+    margin-right: 800px;
+}
+
+.img1 {
+    width: 35%;
+    margin-left: 720px;
+    margin-top: -40px;
+    margin-bottom: 20px;
+}
+
+.img2 {
+    width: 60%;
+    margin-top: -199px;
+    margin-bottom: 20px;
+}
+
+.con {
+    background: rgb(246, 246, 246);
+    margin-top: 200px;
+    padding-top: 90px;
+    margin-bottom: 90px;
+    /* height: 100vh; */
+}
+
+.con h1 {
+    color: rgb(50, 33, 83);
+    border-bottom: 3px solid rgb(132, 189, 90);
+    margin-bottom: 30px;
+    margin-right: 870px;
+}
+
+.con p {
+    color: rgb(50, 33, 83);
+    margin-bottom: 30px;
+    width: 700px;
+    font-weight: 400;
+}
+
+.con img {
+    width: 50%;
+}
+
+.sect2-text {
+    margin-left: 670px;
+    margin-top: -390px;
+    margin-bottom: 100px;
+    width: 45%;
+}
+
+.sect2-text input {
+    margin-bottom: 20px;
+}
+
+.sect2-text h2 {
+    background: rgb(179, 213, 155);
+    /* border-radius: 20px; */
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 15px;
+}
+
+.col-md-12 {
+    background: white;
+    /* width: 120%; */
+    height: 60vh;
+    margin-top: -10px;
+    border-radius: 20px;
+}
+
+.footer {
+    background-color: rgb(50, 33, 83);
+    height: 50vh;
+    /* margin-top: -100px; */
+}
+
+.footer img {
+    padding-top: 40px;
+    margin-left: 130px;
+}
+
+.footer h4 {
+    color: rgb(132, 189, 90);
+}
+
+.footer h5 {
+    color: white;
+    margin-top: 40px;
+    margin-left: 450px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    padding-top: 20px;
+    margin-left: 130px;
+    color: white;
+    width: 250px;
+}
+
+.footer h6 {
+    color: white;
+    width: 140px;
+    margin-bottom: 20px;
+}
+
+.footer h3 {
+    color: rgb(132, 189, 90);
+}
+
+.fa-facebook-official {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.fa-linkedin-square {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.fa-twitter {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.fa-instagram {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+}
+
+.quick-links {
+    padding-left: 430px;
+    margin-top: -130px;
+}
+
+.quick-links1 {
+    padding-left: 660px;
+    margin-top: -135px;
+}
+
+.quick-links2 {
+    padding-left: 960px;
+    margin-top: -135px;
+}
+
+.aa {
+    margin-bottom: 10px;
+}
+
+.col-md-14 {
+    border-bottom: 4px solid rgb(132, 189, 90);
+    margin-top: -120px;
+}
+
+.col-md-10 {
+    border-bottom: 1px solid rgb(132, 189, 90);
+    margin-top: 120px;
+    margin-left: 130px;
+}
